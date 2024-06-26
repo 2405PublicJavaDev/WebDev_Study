@@ -1,7 +1,7 @@
 # JAVA의 런타임 메모리 영역
 
 Java의 런타임 메모리 영역은 크게 다음과 같은 부분으로 나뉩니다:
-![[JWK_Java_Runtime_Data_Area_01.png]]
+![JWK_Java_Runtime_Data_Area_01.png](./img/JWK_Java_Runtime_Data_Area_01.png)
 1. **Method Area (메소드 영역)**
 2. **Heap (힙)**
 3. **Stack (스택)**
